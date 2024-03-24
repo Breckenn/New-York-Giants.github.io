@@ -28,7 +28,7 @@ header {
 }
 
 header h1 {
-    margin-bottom: 35px; /* Adds bottom margin to the header title */
+    margin-bottom: 10px; /* Adds bottom margin to the header title */
 }
 
 nav ul {
