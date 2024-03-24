@@ -54,7 +54,7 @@ main {
     padding: 20px; /* Adds padding to the main content */
     font-size: 12px; /* Sets the font size to 12 */
     font-weight: bold; /* Sets the font weight to bold */
-    color: green; /* Text color for main*/
+    color: red; /* Text color for main*/
 }
 
 main h2 {
