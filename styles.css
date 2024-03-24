@@ -13,7 +13,7 @@ body {
     line-height: 1.5; /* line height for better readability */
     background-color: lightgray; /* Setting light gray as the background color to keep it simple */
     color: red; /* Text color for the body */
-    font-size: 20px; /* Sets the font size to 20 for the body*/
+    font-size: 35px; /* Sets the font size to 20 for the body*/
     font-weight: bold; /* Sets the font weight to bold for the body*/
 }
 
